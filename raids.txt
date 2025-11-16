@@ -1,0 +1,40 @@
+🏜 Карьер
+False
+False
+-1
+🕧None
+🏤 Ломбард
+False
+False
+-1
+🕧None
+🏚 Прием металлолома
+False
+False
+-1
+🕧None
+⛏ Рудная шахта
+False
+False
+-1
+🕧None
+🌳 Лесопилка
+False
+False
+-1
+🕧None
+🗿 Плато демонов
+False
+False
+-1
+🕧None
+✨ Магическая поляна
+False
+False
+-1
+🕧None
+🌴 Пальмовая роща
+False
+False
+-1
+🕧None
